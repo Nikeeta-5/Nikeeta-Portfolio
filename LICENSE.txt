@@ -1,0 +1,16 @@
+Copyright © 2026 Nikeeta Malik
+
+This project is the intellectual and creative property of Nikeeta Malik.
+
+All rights reserved.
+
+You are permitted to:
+- View and explore the deployed website online
+- Share the public link to the live website
+
+You are NOT permitted to:
+- Copy, reuse, or redistribute any code, text, images, or designs from this repository
+- Modify, fork, or republish this repository or its contents
+- Use any part of this project for commercial or educational purposes without written permission
+
+Violation of these terms may result in takedown requests or legal action.
