@@ -4,7 +4,7 @@ A modern, interactive portfolio showcasing my work in full-stack development, UI
 
 ## Live Preview
 
-Coming soon (Netlify deployment in progress).
+https://nikeeta-portfolio-1.netlify.app
 
 ## Built With
 
